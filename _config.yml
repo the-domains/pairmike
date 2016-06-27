@@ -1,0 +1,14 @@
+layout_spectrum: 0.3621788
+typography_spectrum: 0.2921147
+color:
+  saturation: 0.1345268
+  lightness: 0.4367824
+  brandStrength: 0.06854507
+  brandColors:
+    - '#FFFFFF'
+    - '#060606'
+    - '#AAAAAA'
+    - '#545454'
+    - '#8D8D8D'
+  rhythmicContrast: 0.6841973
+name: pairmike
