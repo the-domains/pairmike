@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[pairmike]]></title>
+        <description><![CDATA[pairmike]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 27 Jun 2016 19:05:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Live on the grid.io]]></title>
+            <description><![CDATA[<article><h1>Live on the grid.io</h1><p>Today I received an email by my grid.io site was ready for use. I purchased a founder’s membership over a year ago. I'm happy to finally see it in action.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/603bdf1d-15f3-484b-a3dd-b8827bc70ab8.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/603bdf1d-15f3-484b-a3dd-b8827bc70ab8.jpg</link>
+            <guid isPermaLink="false">3c2e09d3-3e0d-4177-b57d-2674f8406f5b</guid>
+            <pubDate>Mon, 27 Jun 2016 19:05:50 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
